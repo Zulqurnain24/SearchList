@@ -1,0 +1,19 @@
+{
+    "": [
+        {
+            "title": "Lorem ipsum dolor",
+            "description": "Duis aute irure dolor",
+            "detail": "Lorem ipsum dolor sit amet, consectetur adipsicing elit, sed do eiusmod tempor incidunt ut labore et dolore magna aliqua"
+        },
+        {
+            "title": "Item 2",
+            "description": "This is item 2",
+            "detail": "Item 2 is item 2"
+        },
+        {
+            "title": "Item 3",
+            "description": "This is item 3",
+            "detail": "Item 3 is item 3"
+        }
+    ]
+}
